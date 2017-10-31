@@ -1,0 +1,464 @@
+E:\New folder\RHPP Management\RHPP Management\bin\Debug\RHPP Management.exe
+E:\New folder\RHPP Management\RHPP Management\bin\Debug\RHPP Management.pdb
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.exe
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\Assignment.frmCheckout.resources
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.exe
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\bin\Debug\RHPP Management.exe
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\bin\Debug\RHPP Management.pdb
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\Assignment.frmCheckout.resources
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+C:\Users\SSK\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.exe
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\bin\Debug\RHPP Management.exe
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\bin\Debug\RHPP Management.pdb
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\Assignment.frmCheckout.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+C:\Users\Ly PanhaRith\Desktop\RHPP Management\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.exe
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\bin\Debug\RHPP Management.exe
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\bin\Debug\RHPP Management.pdb
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\Assignment.frmCheckout.resources
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+C:\Users\DELL\Desktop\RHPP Management(P.Rith.4.20.PM)\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+E:\New folder\RHPP Management\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+D:\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.exe
+D:\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+H:\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.exe
+H:\RHPP Management\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Assignment.frmCheckout.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+C:\Users\Ly PanhaRith\Desktop\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+E:\New folder\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+E:\New folder\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Assignment.frmCheckout.resources
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+E:\New folder\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Assignment.frmCheckout.resources
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+E:\RUPP IT\301\C#\RHPP\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Assignment.frmCheckout.resources
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+E:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Assignment.frmCheckout.resources
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+D:\RUPP IT\302\C#\Assignment\M2 Y3 Hospital Management System Version 2\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAddBed.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Assignment.frmCheckout.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAddBed.resources
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Assignment.frmCheckout.resources
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2012\Projects\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmStaffs.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmClarify.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe.config
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportAllStaffs.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.cache
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.compiled
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmDetailStaffReport.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmRoomManagement.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReport.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportStaffsCertainPositions.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportListAllBeds.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainBeds.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainPatient.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientReport.resources
+D:\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAllPatientReport.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAddBed.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAllPatientReport.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmCheckout.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmClarify.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmDetailStaffReport.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientReport.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReport.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportAllStaffs.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainBeds.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainPatient.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportListAllBeds.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportStaffsCertainPositions.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmRoomManagement.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmStaffs.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.cache
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.compiled
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe.config
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+D:\Lessons\C#Excercise\C#Project\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe.config
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAddBed.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAllPatientReport.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmCheckout.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmClarify.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmDetailStaffReport.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientReport.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReport.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportAllStaffs.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainBeds.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainPatient.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportListAllBeds.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportStaffsCertainPositions.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmRoomManagement.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmStaffs.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.cache
+D:\C# Assignment\HospitalManagementCSharp25-0417-6pm\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.compiled
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe.config
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAddBed.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAllPatientReport.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmCheckout.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmClarify.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmDetailStaffReport.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientReport.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReport.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportAllStaffs.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainBeds.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainPatient.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportListAllBeds.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportStaffsCertainPositions.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmRoomManagement.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmStaffs.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.cache
+C:\Users\SSK\Desktop\C# hospital management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.compiled
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe.config
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAddBed.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAllPatientReport.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmCheckout.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmClarify.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmDetailStaffReport.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientReport.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReport.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportAllStaffs.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainBeds.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainPatient.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportListAllBeds.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportStaffsCertainPositions.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmRoomManagement.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmStaffs.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.cache
+C:\Users\SSK\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.compiled
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe.config
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAddBed.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAllPatientReport.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmCheckout.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmClarify.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmDetailStaffReport.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientReport.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReport.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportAllStaffs.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainBeds.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainPatient.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCheckInDay.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCheckInSingleDay.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportListAllBeds.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportStaffsCertainPositions.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmRoomManagement.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.FrmSearchPatient.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmStaffs.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.cache
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.compiled
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+C:\Users\TVY\Desktop\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe.config
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAddBed.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAllPatientReport.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmCheckout.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmClarify.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmDetailStaffReport.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientReport.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReport.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportAllStaffs.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainBeds.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainPatient.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCheckInDay.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCheckInSingleDay.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportListAllBeds.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportStaffsCertainPositions.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmRoomManagement.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.FrmSearchPatient.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmStaffs.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.cache
+D:\C# back up 1\C# 12.15pm 26.04.17\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.compiled
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe.config
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.pdb
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAddBed.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAllPatientReport.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmCheckout.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmClarify.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmDetailStaffReport.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientReport.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReport.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportAllStaffs.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainBeds.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainPatient.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCheckInDay.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCheckInSingleDay.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportListAllBeds.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportStaffsCertainPositions.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmRoomManagement.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.FrmSearchPatient.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmStaffs.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.cache
+C:\Users\TVY\Desktop\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RdlCompile.compiled
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\bin\Debug\RHPP Management.exe.config
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.exe
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.pdb
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csprojResolveAssemblyReference.cache
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAccountSettings.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAddBed.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmAllPatientReport.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Check_In1.frmCheckIn.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmCheckout.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmClarify.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmDetailStaffReport.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Doctor.frmDoctors.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.FrmAbout.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmLogin.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientHistory.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmPatientReport.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReport.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportAllStaffs.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainBeds.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCertainPatient.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCheckInDay.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportCheckInSingleDay.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportListAllBeds.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmReportStaffsCertainPositions.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmRoomManagement.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.FrmSearchPatient.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.frmStaffs.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\Hospital_Management.frmUserSetting.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\WindowsFormsApplication3.MainForm.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP_Management.Properties.Resources.resources
+D:\My_project\C#\Hospital Management\HospitalManagementCSharp\RHPP Management(Last)\RHPP Management\obj\x86\Debug\RHPP Management.csproj.GenerateResource.Cache

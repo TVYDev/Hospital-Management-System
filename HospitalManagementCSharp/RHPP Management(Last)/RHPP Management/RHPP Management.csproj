@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E87B1915-92C2-49E2-9439-1E766DF1344D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RHPP_Management</RootNamespace>
+    <AssemblyName>RHPP Management</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account.cs" />
+    <Compile Include="DataSetAllBeds.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetAllBeds.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetCertainBeds.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCertainBeds.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetCertainPatient.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCertainPatient.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetCheckInDay.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCheckInDay.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetCheckInSingleDay.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCheckInSingleDay.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetStaffsCertainPositions.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetStaffsCertainPositions.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsPatientHIstoryDataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsPatientHIstoryDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountSettings.Designer.cs">
+      <DependentUpon>frmAccountSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddBed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddBed.Designer.cs">
+      <DependentUpon>frmAddBed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAllPatientReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAllPatientReport.designer.cs">
+      <DependentUpon>frmAllPatientReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckIn.designer.cs">
+      <DependentUpon>frmCheckIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckOut.designer.cs">
+      <DependentUpon>frmCheckOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmClarify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClarify.Designer.cs">
+      <DependentUpon>frmClarify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDetailStaffReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDetailStaffReport.Designer.cs">
+      <DependentUpon>frmDetailStaffReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoctors.designer.cs">
+      <DependentUpon>frmDoctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAbout.designer.cs">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPatientHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPatientHistory.designer.cs">
+      <DependentUpon>frmPatientHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPatientReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPatientReport.designer.cs">
+      <DependentUpon>frmPatientReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReport.Designer.cs">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportAllStaffs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportAllStaffs.Designer.cs">
+      <DependentUpon>frmReportAllStaffs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportCertainBeds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportCertainBeds.Designer.cs">
+      <DependentUpon>frmReportCertainBeds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportCertainPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportCertainPatient.Designer.cs">
+      <DependentUpon>frmReportCertainPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportCheckInDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportCheckInDay.Designer.cs">
+      <DependentUpon>frmReportCheckInDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportCheckInSingleDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportCheckInSingleDay.designer.cs">
+      <DependentUpon>frmReportCheckInSingleDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportListAllBeds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportListAllBeds.Designer.cs">
+      <DependentUpon>frmReportListAllBeds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportStaffsCertainPositions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportStaffsCertainPositions.Designer.cs">
+      <DependentUpon>frmReportStaffsCertainPositions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRoomManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRoomManagement.Designer.cs">
+      <DependentUpon>frmRoomManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSearchPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSearchPatient.Designer.cs">
+      <DependentUpon>FrmSearchPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffs.Designer.cs">
+      <DependentUpon>frmStaffs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserSetting.designer.cs">
+      <DependentUpon>frmUserSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalManagementDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalManagementDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalManagementDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalManagementDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalManagementDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalManagementDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalManagementDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalManagementDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ListAllVisitPatientDataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ListAllVisitPatientDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PictureFile.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SSK.cs" />
+    <EmbeddedResource Include="frmAccountSettings.resx">
+      <DependentUpon>frmAccountSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddBed.resx">
+      <DependentUpon>frmAddBed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAllPatientReport.resx">
+      <DependentUpon>frmAllPatientReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckIn.resx">
+      <DependentUpon>frmCheckIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckOut.resx">
+      <DependentUpon>frmCheckOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClarify.resx">
+      <DependentUpon>frmClarify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDetailStaffReport.resx">
+      <DependentUpon>frmDetailStaffReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoctors.resx">
+      <DependentUpon>frmDoctors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAbout.resx">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPatientHistory.resx">
+      <DependentUpon>frmPatientHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPatientReport.resx">
+      <DependentUpon>frmPatientReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReport.resx">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportAllStaffs.resx">
+      <DependentUpon>frmReportAllStaffs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportCertainBeds.resx">
+      <DependentUpon>frmReportCertainBeds.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportCertainPatient.resx">
+      <DependentUpon>frmReportCertainPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportCheckInDay.resx">
+      <DependentUpon>frmReportCheckInDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportCheckInSingleDay.resx">
+      <DependentUpon>frmReportCheckInSingleDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportListAllBeds.resx">
+      <DependentUpon>frmReportListAllBeds.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportStaffsCertainPositions.resx">
+      <DependentUpon>frmReportStaffsCertainPositions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRoomManagement.resx">
+      <DependentUpon>frmRoomManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSearchPatient.resx">
+      <DependentUpon>FrmSearchPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffs.resx">
+      <DependentUpon>frmStaffs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserSetting.resx">
+      <DependentUpon>frmUserSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report10.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Report6.rdlc" />
+    <EmbeddedResource Include="Report8.rdlc" />
+    <EmbeddedResource Include="Report9.rdlc" />
+    <None Include="app.config" />
+    <None Include="DataSetAllBeds.xsc">
+      <DependentUpon>DataSetAllBeds.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetAllBeds.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetAllBeds.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSetAllBeds.xss">
+      <DependentUpon>DataSetAllBeds.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCertainBeds.xsc">
+      <DependentUpon>DataSetCertainBeds.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCertainBeds.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCertainBeds.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSetCertainBeds.xss">
+      <DependentUpon>DataSetCertainBeds.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCertainPatient.xsc">
+      <DependentUpon>DataSetCertainPatient.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCertainPatient.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCertainPatient.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSetCertainPatient.xss">
+      <DependentUpon>DataSetCertainPatient.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCheckInDay.xsc">
+      <DependentUpon>DataSetCheckInDay.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCheckInDay.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCheckInDay.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSetCheckInDay.xss">
+      <DependentUpon>DataSetCheckInDay.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCheckInSingleDay.xsc">
+      <DependentUpon>DataSetCheckInSingleDay.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCheckInSingleDay.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCheckInSingleDay.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSetCheckInSingleDay.xss">
+      <DependentUpon>DataSetCheckInSingleDay.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetStaffsCertainPositions.xsc">
+      <DependentUpon>DataSetStaffsCertainPositions.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetStaffsCertainPositions.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetStaffsCertainPositions.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSetStaffsCertainPositions.xss">
+      <DependentUpon>DataSetStaffsCertainPositions.xsd</DependentUpon>
+    </None>
+    <None Include="dsPatientHIstoryDataset.xsc">
+      <DependentUpon>dsPatientHIstoryDataset.xsd</DependentUpon>
+    </None>
+    <None Include="dsPatientHIstoryDataset.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsPatientHIstoryDataset.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dsPatientHIstoryDataset.xss">
+      <DependentUpon>dsPatientHIstoryDataset.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalManagementDataSet.xsc">
+      <DependentUpon>HospitalManagementDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalManagementDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalManagementDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HospitalManagementDataSet.xss">
+      <DependentUpon>HospitalManagementDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalManagementDataSet1.xsc">
+      <DependentUpon>HospitalManagementDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalManagementDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalManagementDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HospitalManagementDataSet1.xss">
+      <DependentUpon>HospitalManagementDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalManagementDataSet2.xsc">
+      <DependentUpon>HospitalManagementDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalManagementDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalManagementDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HospitalManagementDataSet2.xss">
+      <DependentUpon>HospitalManagementDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalManagementDataSet3.xsc">
+      <DependentUpon>HospitalManagementDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalManagementDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalManagementDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HospitalManagementDataSet3.xss">
+      <DependentUpon>HospitalManagementDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ListAllVisitPatientDataset.xsc">
+      <DependentUpon>ListAllVisitPatientDataset.xsd</DependentUpon>
+    </None>
+    <None Include="ListAllVisitPatientDataset.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ListAllVisitPatientDataset.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ListAllVisitPatientDataset.xss">
+      <DependentUpon>ListAllVisitPatientDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkin_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2000px-Gnome-edit-clear.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house-309113_1280.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hospital management.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\healthcare-center-qlook.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checkin_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Head_physician.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house-309113_12801.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About-us-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aboutForm2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_left_square_black-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fotolia_65704515_M.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-Male-User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-clear-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\healthcare-loop.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house-309113_1280 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-user-icon-4737.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staffs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adminLogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\generalUserLogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\default_staff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyAsAdmin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_group1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-your-last-action-icons-444921.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addStaff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clearStaff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deleteStaff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editStaff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updateStaff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
