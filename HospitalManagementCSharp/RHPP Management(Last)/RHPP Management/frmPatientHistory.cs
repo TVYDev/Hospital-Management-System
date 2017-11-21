@@ -238,8 +238,7 @@ namespace RHPP_Management
 
         private void btnPrint_Click_1(object sender, EventArgs e)
         {
-            RHPP_Management.frmPatientReport report = new RHPP_Management.frmPatientReport(lblID.Text);
-            report.ShowDialog();
+            
        
         }
 

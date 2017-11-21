@@ -413,9 +413,7 @@ namespace WindowsFormsApplication3
 
         private void pbReports_Click(object sender, EventArgs e)
         {
-            pbReports.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            RHPP_Management.frmReport frmRpt = new RHPP_Management.frmReport();
-            frmRpt.ShowDialog();
+            
         }
 
         private void pbReports_MouseEnter(object sender, EventArgs e)

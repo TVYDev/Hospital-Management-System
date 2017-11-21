@@ -62,12 +62,6 @@
     <Compile Include="frmAddBed.Designer.cs">
       <DependentUpon>frmAddBed.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmAllPatientReport.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmAllPatientReport.designer.cs">
-      <DependentUpon>frmAllPatientReport.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmCheckIn.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,12 +79,6 @@
     </Compile>
     <Compile Include="frmClarify.Designer.cs">
       <DependentUpon>frmClarify.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmDetailStaffReport.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmDetailStaffReport.Designer.cs">
-      <DependentUpon>frmDetailStaffReport.cs</DependentUpon>
     </Compile>
     <Compile Include="frmDoctors.cs">
       <SubType>Form</SubType>
@@ -116,60 +104,6 @@
     <Compile Include="frmPatientHistory.designer.cs">
       <DependentUpon>frmPatientHistory.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmPatientReport.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmPatientReport.designer.cs">
-      <DependentUpon>frmPatientReport.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmReport.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmReport.Designer.cs">
-      <DependentUpon>frmReport.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmReportAllStaffs.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmReportAllStaffs.Designer.cs">
-      <DependentUpon>frmReportAllStaffs.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmReportCertainBeds.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmReportCertainBeds.Designer.cs">
-      <DependentUpon>frmReportCertainBeds.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmReportCertainPatient.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmReportCertainPatient.Designer.cs">
-      <DependentUpon>frmReportCertainPatient.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmReportCheckInDay.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmReportCheckInDay.Designer.cs">
-      <DependentUpon>frmReportCheckInDay.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmReportCheckInSingleDay.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmReportCheckInSingleDay.designer.cs">
-      <DependentUpon>frmReportCheckInSingleDay.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmReportListAllBeds.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmReportListAllBeds.Designer.cs">
-      <DependentUpon>frmReportListAllBeds.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmReportStaffsCertainPositions.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmReportStaffsCertainPositions.Designer.cs">
-      <DependentUpon>frmReportStaffsCertainPositions.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmRoomManagement.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -194,31 +128,6 @@
     <Compile Include="frmUserSetting.designer.cs">
       <DependentUpon>frmUserSetting.cs</DependentUpon>
     </Compile>
-    <Compile Include="HospitalManagementDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>HospitalManagementDataSet.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="HospitalManagementDataSet1.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>HospitalManagementDataSet1.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="HospitalManagementDataSet2.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>HospitalManagementDataSet2.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="HospitalManagementDataSet3.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>HospitalManagementDataSet3.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="ListAllVisitPatientDataset.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ListAllVisitPatientDataset.xsd</DependentUpon>
-    </Compile>
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -235,9 +144,6 @@
     <EmbeddedResource Include="frmAddBed.resx">
       <DependentUpon>frmAddBed.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmAllPatientReport.resx">
-      <DependentUpon>frmAllPatientReport.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frmCheckIn.resx">
       <DependentUpon>frmCheckIn.cs</DependentUpon>
     </EmbeddedResource>
@@ -246,9 +152,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmClarify.resx">
       <DependentUpon>frmClarify.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmDetailStaffReport.resx">
-      <DependentUpon>frmDetailStaffReport.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmDoctors.resx">
       <DependentUpon>frmDoctors.cs</DependentUpon>
@@ -261,33 +164,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmPatientHistory.resx">
       <DependentUpon>frmPatientHistory.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmPatientReport.resx">
-      <DependentUpon>frmPatientReport.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmReport.resx">
-      <DependentUpon>frmReport.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmReportAllStaffs.resx">
-      <DependentUpon>frmReportAllStaffs.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmReportCertainBeds.resx">
-      <DependentUpon>frmReportCertainBeds.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmReportCertainPatient.resx">
-      <DependentUpon>frmReportCertainPatient.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmReportCheckInDay.resx">
-      <DependentUpon>frmReportCheckInDay.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmReportCheckInSingleDay.resx">
-      <DependentUpon>frmReportCheckInSingleDay.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmReportListAllBeds.resx">
-      <DependentUpon>frmReportListAllBeds.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmReportStaffsCertainPositions.resx">
-      <DependentUpon>frmReportStaffsCertainPositions.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmRoomManagement.resx">
       <DependentUpon>frmRoomManagement.cs</DependentUpon>
@@ -315,61 +191,6 @@
       <DesignTime>True</DesignTime>
     </Compile>
     <None Include="app.config" />
-    <None Include="HospitalManagementDataSet.xsc">
-      <DependentUpon>HospitalManagementDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="HospitalManagementDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>HospitalManagementDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="HospitalManagementDataSet.xss">
-      <DependentUpon>HospitalManagementDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="HospitalManagementDataSet1.xsc">
-      <DependentUpon>HospitalManagementDataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="HospitalManagementDataSet1.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>HospitalManagementDataSet1.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="HospitalManagementDataSet1.xss">
-      <DependentUpon>HospitalManagementDataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="HospitalManagementDataSet2.xsc">
-      <DependentUpon>HospitalManagementDataSet2.xsd</DependentUpon>
-    </None>
-    <None Include="HospitalManagementDataSet2.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>HospitalManagementDataSet2.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="HospitalManagementDataSet2.xss">
-      <DependentUpon>HospitalManagementDataSet2.xsd</DependentUpon>
-    </None>
-    <None Include="HospitalManagementDataSet3.xsc">
-      <DependentUpon>HospitalManagementDataSet3.xsd</DependentUpon>
-    </None>
-    <None Include="HospitalManagementDataSet3.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>HospitalManagementDataSet3.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="HospitalManagementDataSet3.xss">
-      <DependentUpon>HospitalManagementDataSet3.xsd</DependentUpon>
-    </None>
-    <None Include="ListAllVisitPatientDataset.xsc">
-      <DependentUpon>ListAllVisitPatientDataset.xsd</DependentUpon>
-    </None>
-    <None Include="ListAllVisitPatientDataset.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>ListAllVisitPatientDataset.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="ListAllVisitPatientDataset.xss">
-      <DependentUpon>ListAllVisitPatientDataset.xsd</DependentUpon>
-    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
