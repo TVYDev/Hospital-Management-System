@@ -50,41 +50,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Account.cs" />
-    <Compile Include="DataSetAllBeds.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetAllBeds.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="DataSetCertainBeds.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetCertainBeds.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="DataSetCertainPatient.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetCertainPatient.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="DataSetCheckInDay.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetCheckInDay.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="DataSetCheckInSingleDay.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetCheckInSingleDay.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="DataSetStaffsCertainPositions.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetStaffsCertainPositions.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="dsPatientHIstoryDataset.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>dsPatientHIstoryDataset.xsd</DependentUpon>
-    </Compile>
     <Compile Include="frmAccountSettings.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -349,93 +314,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Report1.rdlc" />
-    <EmbeddedResource Include="Report10.rdlc" />
-    <EmbeddedResource Include="Report2.rdlc" />
-    <EmbeddedResource Include="Report3.rdlc" />
-    <EmbeddedResource Include="Report4.rdlc" />
-    <EmbeddedResource Include="Report5.rdlc" />
-    <EmbeddedResource Include="Report6.rdlc" />
-    <EmbeddedResource Include="Report8.rdlc" />
-    <EmbeddedResource Include="Report9.rdlc" />
     <None Include="app.config" />
-    <None Include="DataSetAllBeds.xsc">
-      <DependentUpon>DataSetAllBeds.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetAllBeds.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetAllBeds.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="DataSetAllBeds.xss">
-      <DependentUpon>DataSetAllBeds.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetCertainBeds.xsc">
-      <DependentUpon>DataSetCertainBeds.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetCertainBeds.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetCertainBeds.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="DataSetCertainBeds.xss">
-      <DependentUpon>DataSetCertainBeds.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetCertainPatient.xsc">
-      <DependentUpon>DataSetCertainPatient.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetCertainPatient.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetCertainPatient.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="DataSetCertainPatient.xss">
-      <DependentUpon>DataSetCertainPatient.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetCheckInDay.xsc">
-      <DependentUpon>DataSetCheckInDay.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetCheckInDay.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetCheckInDay.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="DataSetCheckInDay.xss">
-      <DependentUpon>DataSetCheckInDay.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetCheckInSingleDay.xsc">
-      <DependentUpon>DataSetCheckInSingleDay.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetCheckInSingleDay.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetCheckInSingleDay.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="DataSetCheckInSingleDay.xss">
-      <DependentUpon>DataSetCheckInSingleDay.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetStaffsCertainPositions.xsc">
-      <DependentUpon>DataSetStaffsCertainPositions.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetStaffsCertainPositions.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetStaffsCertainPositions.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="DataSetStaffsCertainPositions.xss">
-      <DependentUpon>DataSetStaffsCertainPositions.xsd</DependentUpon>
-    </None>
-    <None Include="dsPatientHIstoryDataset.xsc">
-      <DependentUpon>dsPatientHIstoryDataset.xsd</DependentUpon>
-    </None>
-    <None Include="dsPatientHIstoryDataset.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>dsPatientHIstoryDataset.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="dsPatientHIstoryDataset.xss">
-      <DependentUpon>dsPatientHIstoryDataset.xsd</DependentUpon>
-    </None>
     <None Include="HospitalManagementDataSet.xsc">
       <DependentUpon>HospitalManagementDataSet.xsd</DependentUpon>
     </None>
